@@ -118,17 +118,17 @@
 <div class="col-md-8">
 <div class="row logform">
 <div class="col-xs-6">
-<a href="https://52.76.219.242/?ref=ubaydillah" target="_blank" rel="nofollow noreferrer"><span class="tron-login">DAFTAR SLOT</span></a>
+<a href="https://heylink.me/max500win/" target="_blank" rel="nofollow noreferrer"><span class="tron-login">DAFTAR SLOT</span></a>
 </div>
 <div class="col-xs-6">
-<a href="https://52.76.219.242/?ref=ubaydillah" target="_blank" rel="nofollow noreferrer"><span class="tron-regis">LOGIN SLOT</span></a>
+<a href="https://heylink.me/max500win/" target="_blank" rel="nofollow noreferrer"><span class="tron-regis">LOGIN SLOT</span></a>
 </div>
 </div>
 </div>
 </div>
 <div class="row">
 <div class="col-md-12 mt-3">
-<a href="https://52.76.219.242/?ref=ubaydillah"><button type="login" class="btn btn-daf">SLOT GACOR GAMPANG MENANG HARI INI</button></a>
+<a href="https://heylink.me/max500win/"><button type="login" class="btn btn-daf">SLOT GACOR GAMPANG MENANG HARI INI</button></a>
 </div>
 </div>
 </div>
@@ -306,13 +306,13 @@
 </div>
 </div>
 <div class="fixed-footer">
-<a href="https://52.76.219.242/?ref=ubaydillah" rel="nofollow noopener" target="_blank">
+<a href="https://heylink.me/max500win/" rel="nofollow noopener" target="_blank">
 <amp-img layout="intrinsic" height="75" width="75" src="https://i.ibb.co/ZVHRMbw/bonus-gacor.webp" alt="Bonus Slot Gacor"></amp-img>
 Bonus </a>
-<a href="https://52.76.219.242/?ref=ubaydillah" rel="nofollow noopener" target="_blank" class="tada">
+<a href="https://heylink.me/max500win/" rel="nofollow noopener" target="_blank" class="tada">
 <amp-img class="center" layout="intrinsic" height="50" width="50" src="https://i.ibb.co/wK1bwCp/logo-money.png" alt="Daftar"></amp-img>
 Daftar </a>
-<a href="https://52.76.219.242/?ref=ubaydillah" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
+<a href="https://heylink.me/max500win/" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
 <amp-img class="live-chat-icon" layout="intrinsic" height="75" width="75" src="https://i.ibb.co/yYTSjRV/livechat.png" alt="Live Chat"></amp-img>
 Live Chat </a>
 </div>
